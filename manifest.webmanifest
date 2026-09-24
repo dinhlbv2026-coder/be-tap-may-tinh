@@ -1,0 +1,30 @@
+{
+ "name": "Bé Tập Dùng Máy Tính",
+ "short_name": "Bé Tập Máy Tính",
+ "description": "5 trò chơi giúp bé lớp 1 tập rê chuột, nhấp chuột, kéo thả, gõ phím và dùng phím mũi tên.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#E4F4FF",
+ "theme_color": "#BFE6FF",
+ "lang": "vi",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

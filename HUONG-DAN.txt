@@ -1,0 +1,18 @@
+BÉ TẬP DÙNG MÁY TÍNH – HƯỚNG DẪN CÀI ĐẶT
+
+A. ĐƯA LÊN MẠNG (làm 1 lần, miễn phí, khoảng 5 phút)
+1. Giải nén tệp zip, được thư mục "be-tap-may-tinh".
+2. Trên máy tính, mở trang: https://app.netlify.com/drop
+3. Kéo cả thư mục "be-tap-may-tinh" thả vào khung trên trang.
+4. Chờ vài giây, Netlify cho một đường link dạng https://ten-ngau-nhien.netlify.app
+   (Tạo tài khoản Netlify miễn phí để link không bị xóa sau 1 giờ.)
+
+B. CÀI LÊN TỪNG MÁY (mở đường link ở bước A.4)
+- iPhone / iPad: mở bằng Safari → nút Chia sẻ → "Thêm vào MH chính".
+- Điện thoại Android: mở bằng Chrome → menu ⋮ → "Cài đặt ứng dụng" (hoặc "Thêm vào màn hình chính").
+- Máy tính Windows / Mac: mở bằng Chrome hoặc Edge → biểu tượng cài đặt ở cuối thanh địa chỉ → "Cài đặt".
+Sau khi cài, game có biểu tượng riêng, mở toàn màn hình, chạy được cả khi không có mạng.
+
+C. LƯU Ý
+- Tiến độ, người chơi tự thêm và giới hạn 45 phút/ngày lưu riêng trên từng máy.
+- Khi có bản game mới: thả thư mục mới vào đúng trang Netlify cũ (mục Deploys) để giữ nguyên đường link.
